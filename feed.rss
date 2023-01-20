@@ -14,5 +14,13 @@
     </image>
     <language>en</language>
     <lastBuildDate>Fri, 20 Jan 2023 18:40:46 +0000</lastBuildDate>
+
+    <item>
+      <title>RSS Tutorial</title>
+      <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+      <description>New RSS tutorial on W3Schools</description>
+      <enclosure url="https://www.w3schools.com/media/3d.wmv"
+      length="78645" type="video/wmv" />
+    </item>
   </channel>
 </rss>
