@@ -27,5 +27,12 @@
       <description>Test</description>
       <enclosure url="https://instagram.fdtm2-1.fna.fbcdn.net/v/t51.2885-15/324554919_3421697258096702_8558342613426676795_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fdtm2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=sKhLA8offXkAX8V3FSs&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCNaMnqp6rlLOZAZ9NApEc9UXEnYHh4dTknYGt7KPL6uw&oe=63D073FC&_nc_sid=86f79a" type="image/jpeg" />
     </item>
+
+    <item>
+      <title>Test post 2</title>
+      <description>Test</description>
+      <enclosure url="https://instagram.fdtm2-1.fna.fbcdn.net/v/t51.2885-15/324554919_3421697258096702_8558342613426676795_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fdtm2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=sKhLA8offXkAX8V3FSs&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCNaMnqp6rlLOZAZ9NApEc9UXEnYHh4dTknYGt7KPL6uw&oe=63D073FC&_nc_sid=86f79a" type="image/jpeg" />
+      <enclosure url="https://instagram.ftxl3-1.fna.fbcdn.net/v/t51.2885-15/324847677_1211633806422956_2226418224190060926_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.ftxl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=lVTnpxOHMDYAX-oIEJp&edm=APU89FABAAAA&ccb=7-5&oh=00_AfArNIuDnYrBm3BTN6VEekAeKkRhaz6uw8FqZabZ1wnTJg&oe=63CFF8C5&_nc_sid=86f79a" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
