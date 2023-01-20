@@ -17,10 +17,15 @@
 
     <item>
       <title>RSS Tutorial</title>
-      <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-      <description>New RSS tutorial on W3Schools</description>
-      <enclosure url="https://www.w3schools.com/media/3d.wmv"
-      length="78645" type="video/wmv" />
+      <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+      <description>New RSS tutorial on W3Schools</description>
+      <enclosure url="https://www.w3schools.com/media/3d.wmv"
+      length="78645" type="video/wmv" />
+    </item>
+    <item>
+      <title>Test post</title>
+      <description>Test</description>
+      <enclosure url="https://instagram.fdtm2-1.fna.fbcdn.net/v/t51.2885-15/324554919_3421697258096702_8558342613426676795_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fdtm2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=sKhLA8offXkAX8V3FSs&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCNaMnqp6rlLOZAZ9NApEc9UXEnYHh4dTknYGt7KPL6uw&oe=63D073FC&_nc_sid=86f79a" type="image/jpeg" />
     </item>
   </channel>
 </rss>
